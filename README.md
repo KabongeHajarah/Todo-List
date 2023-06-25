@@ -17,10 +17,10 @@ This is a simple Todo App built with HTML, CSS, and JavaScript. It allows users 
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- React
+- # HTML
+  # CSS
+- # JavaScript
+- # React
 
 ## Contributing
 
