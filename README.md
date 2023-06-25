@@ -11,7 +11,7 @@ This is a simple Todo App built with HTML, CSS, and JavaScript. It allows users 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-app.git`
+1. Clone the repository: `git clone https://github.com/KabongeHajarah/todo-app.git`
 2. Navigate to the project directory.
 3. Open the `index.html` file in your preferred web browser.
 
