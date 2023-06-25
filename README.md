@@ -18,9 +18,9 @@ This is a simple Todo App built with HTML, CSS, and JavaScript. It allows users 
 ## Technologies Used
 
 - # HTML
-  # CSS
-- # JavaScript
-- # React
+- ## CSS
+- ## JavaScript
+- ### React
 
 ## Contributing
 
